@@ -1,0 +1,8 @@
+  <div class="form-group row">
+                    <label class="col-lg-3 col-md-3 col-sm-4 col-12 col-form-label font-weight-bold">Foto Toko</label>
+                    <div class="col-lg-9 col-md-9 col-sm-8 col-12">
+                      <input type="file" name="foto" placeholder="Masukan Foto">
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-8 col-12 offset-lg-3 offset-md-3 offset-sm-4 error-notice" id="no_telp_error"></div>
+                  </div>
+              </div>
